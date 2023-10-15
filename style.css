@@ -34,7 +34,6 @@ header h1 {
 
 }
 
-
 header div.navbar{
    overflow: hidden;
    max-width: 1200px;
@@ -48,7 +47,6 @@ header div.navbar{
    position: -webkit-sticky;
    top: 0;
    position: sticky;
-
 }
 
 div.logo img{
